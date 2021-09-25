@@ -1,0 +1,13 @@
+h1{
+  color: red;
+  background-color: silver;
+  text-align:center;
+}
+p{
+  color: yellow;
+  background-color: grey;
+  text-align: right;
+  border-style:solid;
+  border-color: red;
+
+}
